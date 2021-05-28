@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @todayisntmonday
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently working on a licence plate recognition project - OpenCV, C++.
 - 💞️ I’m looking to work on a sports betting web application (not only) using ML models - Python, React.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tom%C3%A1%C5%A1-pop-53a320186/)
 
